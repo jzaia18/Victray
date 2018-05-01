@@ -1,0 +1,15 @@
+'''<table>
+<tr><td>
+<h1> Welcome'''+form.getvalue('username')+'''!<h1>
+</td></tr>
+<tr><td>
+<br>\n
+You currently have nothing on your account! please, go look at the pokedex and choose your favorite pokemon!
+<br>
+<a href="pokedex.py?page=1">To Pokedex</a>
+</td><td>
+You have no recent posts! Go make some!
+<br>
+<a href="pokedex.py?page=1">To Pokedex</a>
+</td></tr>
+</table>'''

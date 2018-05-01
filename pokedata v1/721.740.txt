@@ -1,0 +1,1 @@
+Sp.Defyield:0,name:volcanion,weight:1950,Sp.Atk:130,Speed:70,HP:80,Speedyield:0,height:17,Attack:110,Defense:120,HPyield:0,Defenseyield:0,Attackyield:0,type1:10,Sp.Atkyield:3,Sp.Def:90,id:721,type2:11,

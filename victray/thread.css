@@ -1,0 +1,49 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #88daff;
+}
+.info td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #777777;
+}
+.logintable tr{
+	background-color: #66b9ee;
+}
+.commentsection {
+}
+.comment {
+    padding: 15px;
+    spacing: 15px;
+}
+.upvote {
+	text-align: center;
+	vertical-align: center;
+	padding: 0px;
+	width: 10%;
+}
+tr:nth-child(even) {
+    background-color: #66b9ee;
+}
+textarea {
+    resize: none;
+    height: 100px;
+    width: 20%;
+}
+.head table{
+	background-color: #2274ee;
+	border: 1px solid black;
+}
+.head img{
+	max-width: 100%;
+	height: auto;
+}
+.favbutton {
+	height: 30px;
+	width: 30px;
+}
+.spritearea {
+	padding: 0px;
+	vertical-align: top;
+}

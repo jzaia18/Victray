@@ -1,0 +1,35 @@
+5/23:
+Got information and started modified login code to fit needs of site.
+
+5/24:
+Began compiling csvs into one singular csv and got user folders functional, both unfinished.
+
+5/25:
+After eons of messing about finally finished csv compilation, fixed problems with folder creation and individual user .txts.
+
+5/26:
+Seperated list of information into seperate more useful csv files, stored and organized.
+
+5/27:
+Started work on pokedex.py, and added "index.html"s to directories in which needed. Modified makepokedex.py to suit new usage.
+
+5/28:
+Finished pokedex.py, leaving a full table with all 721 pokemon, along with modifying makepokedex.py again to fix minor errors. Gen 6 sprites are missing. Types and pokemon are covered along with an image leading to their respective thread.py. thread.py is empty.
+
+5/29:
+Polished pokedex.py by streamlining format and adding numbers. Started working on thread.py, it is fully functional but missing some features.
+
+5/30:
+Polished thead.py, it is fully function for information about the pokemon, and ready for work on becoming an actual comment thread.
+
+From 5/31 To 6/2:
+Started working on html on previously empty files. Organized concepts for thread.py and and commenting system.
+
+6/3:
+Started working on commenting system, mostly organization of concepts, not actual code.
+
+6/4:
+Comments system fully completed, started fixing other miscellaneous parts of code. Replaced sprites with animated gifs.
+
+6/5:
+Huge amounts of css work, everything is beautiful now. Fixed more miscellaneous code. Upvoting and favoriting functional, favoriting currently serves no purpose, whereas upvoting will allow infinite upvotes (these have to be fixed but are low priority). Creation of logo and other artsy stuff. Ok look if you're reading this, to be honest all we did today was a bunch of css and fixing the broken comments system, and I know the appearance isn't supposed to be too important but omg its beautiful now (and it was already functional other than comments).

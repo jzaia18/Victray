@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #88daff;
+}
+.navbar {
+	width: 60%;
+}
+.dex {
+	height: 100%;
+	width: 100%;
+	table-layout: auto;
+	border-spacing: 10px 40px;
+}
+.sprite {
+	max-height: 90px;
+	max-width: 200%;
+}
+.head table{
+	background-color: #2274ee;
+	border: 1px solid black;
+}
+.head img{
+	max-width: 100%;
+	height: auto;
+}
+.logintable tr{
+	background-color: #66b9ee;
+}

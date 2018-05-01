@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #88daff;
+}
+.logintable tr{
+	background-color: #66b9ee;
+}
+.head table{
+	background-color: #2274ee;
+	border: 1px solid black;
+}
+.head img{
+	max-width: 100%;
+	height: auto;
+}
